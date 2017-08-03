@@ -1,2 +1,2 @@
-# Linear-Regression-Spark
-Regression with spark
+# USA-Housing-Data
+Linear Regression with Spark
